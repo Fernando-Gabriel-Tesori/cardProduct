@@ -42,13 +42,6 @@ Cada `.card` possui:
 
 1. Clone o repositório:
 
-```bash
-git clone https://github.com/seu-usuario/3d-card-gallery.git
-cd 3d-card-gallery
-Abra o index.html diretamente no navegador ou utilize uma extensão Live Server no VS Code.
-
-Certifique-se de estar conectado à internet para carregar as fontes e os modelos 3D via CDN.
-
 📦 Recursos externos
 Fontes: Satoshi
 
